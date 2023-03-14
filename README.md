@@ -1,4 +1,4 @@
-# StoreForApp-Backend
+# StoreForApp-Backend(Golang)
 App Purchase Platform based on Golang and React 
 # Project url below
 https://dev8823.dhzlitq0t6faq.amplifyapp.com
